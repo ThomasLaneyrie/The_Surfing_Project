@@ -1,0 +1,14 @@
+/* *{
+   outline: 1px solid red;
+  } */
+
+
+.jumbotron_hero{
+    height: 600px;
+    background-image: url("https://images.pexels.com/photos/1533729/pexels-photo-1533729.jpeg");
+    opacity:1;
+    /* Centre l'image et la met bien sur tous les écrans */
+    background-position:center;
+    background-repeat: no repeat;
+    background-size:cover;
+}
